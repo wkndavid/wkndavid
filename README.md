@@ -6,7 +6,7 @@
   <a href="https://github.com/wkndavid">
   <div float="left">
    <div float="left"><img src="https://github-readme-stats.vercel.app/api?username=wkndavid"/></div>
-   <div float="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndavid"/></div>
+   <div float="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndavid"/></div>
 <div float="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wkndavid"/></div>
   </div>
 <div style="display: inline_block"><br>
