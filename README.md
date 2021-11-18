@@ -1,4 +1,4 @@
- ### David Jesus  Dev Front-end Freelancer
+ ### David Jesus - Freelancer Dev computer
 <div align="left">
   <a href="https://github.com/wkndavid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wkndavid&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
