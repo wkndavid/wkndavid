@@ -3,9 +3,7 @@
  <div align="left">
   <a href="https://github.com/wkndavid">
   <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=wkndavid"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndavid"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkndavid"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=wkndavid"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=wkndavid"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndavid"/>  
    </div>
 </div>
 <div style="display: inline_block"><br>
