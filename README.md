@@ -2,11 +2,11 @@
  
 <div align="left">
   <a href="https://github.com/wkndavid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wkndavid&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndavid&layout=compact&langs_count=7&theme=white"/>
-  <div align="center">
+   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkndavid" align="center"/>
   </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndavid&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wkndavid&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
