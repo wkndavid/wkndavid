@@ -1,7 +1,6 @@
  ### David Jesus - Freelancer Dev 💻
  
- 
- 	:seedling: Estudando Laravel / Vue.js & Docker 
+ ![image](https://user-images.githubusercontent.com/81330560/142484444-5333e7c5-9864-4b64-ab0b-edb4553c858e.png) Estudando Laravel / Vue.js & Docker 
  
  <div align="left">
   <a href="https://github.com/wkndavid">
