@@ -6,7 +6,7 @@
   <a href="https://github.com/wkndavid">
   <div>
    <img src="https://github-readme-stats.vercel.app/api?username=wkndavid"/>
-   <div align="bottom"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndavid"/></div>
+   <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndavid"/></div>
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=wkndavid"/></div>
   </div>
 <div style="display: inline_block"><br>
