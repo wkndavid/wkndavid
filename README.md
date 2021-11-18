@@ -1,5 +1,8 @@
  ### David Jesus - Freelancer Dev 💻
  
+ 
+ 	:seedling: Estudando Laravel / Vue.js & Docker 
+ 
  <div align="left">
   <a href="https://github.com/wkndavid">
   <div>
