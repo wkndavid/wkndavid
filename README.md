@@ -2,7 +2,7 @@
  
 <div align="left">
   <a href="https://github.com/wkndavid">
-   <div>
+   <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkndavid" align="center"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndavid&layout=compact&langs_count=7&theme=white"/>
   </div>
