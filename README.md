@@ -16,7 +16,7 @@
 
   ##
    
-   <p>Termos consciência de sermos ignorantes é um grande passo para o conhecimento.</p>
+   <div>Termos consciência de sermos ignorantes é um grande passo para o conhecimento.</div>
   
   ##
 
