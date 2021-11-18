@@ -15,10 +15,9 @@
  </div>
  
  ##
- <div align="center">
-  <h1>Termos consciência de sermos ignorantes é um grande passo para o conhecimento.</h1>
+ <div align="center"> 
+ Termos consciência de sermos ignorantes é um grande passo para o conhecimento.
  </div> 
- ##
  
  <div>
   
