@@ -1,5 +1,4 @@
- ### David Jesus - Freelancer Dev 💻
- 
+ ### David Jesus - Estudante de Análise e Desenvolvimento de Sistemas 👨🏽‍💻 
 :seedling:	 Estudando Laravel / Vue.js && Docker 
  
  <div align="left">
