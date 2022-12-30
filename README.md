@@ -1,5 +1,5 @@
  ### David Jesus - Estudante de Análise e Desenvolvimento de Sistemas 👨🏽‍💻 
-:seedling:	 Estudando Laravel / Vue.js && Docker 
+:seedling:	 Estudando Laravel / Vue.js && Docker / MySQL
  
  <div align="left">
   <a href="https://github.com/wkndavid">
