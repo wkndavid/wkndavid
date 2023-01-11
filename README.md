@@ -1,5 +1,5 @@
  ### David Jesus - Estudante de Análise e Desenvolvimento de Sistemas 👨🏽‍💻 
-:seedling:	 Estudando /Python /Vue.js /Docker /MySQL
+:seedling:	 Estudando /Javascript /Python /Docker /MySQL
  
  <div align="left">
   <a href="https://github.com/wkndavid">
