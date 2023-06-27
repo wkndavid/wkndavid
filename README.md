@@ -1,5 +1,5 @@
  ### David Jesus - Estudante de Análise e Desenvolvimento de Sistemas 👨🏽‍💻 
-:seedling:	 Estudando /Javascript /Python /Docker /MySQL
+:seedling:	 Estudando - Python | Javascript | Docker | MySQL
  
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
