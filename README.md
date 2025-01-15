@@ -1,5 +1,5 @@
- ### David Jesus - Software Developer JR 👨🏽‍💻 
-:seedling:	 Estudando - Linux | Docker | Python | Vue.js | Nginx |  Argis | Web App Builder | Dojo Toolkit & Ambiente Esri
+ ### David Jesus - Web Developer JR 👨🏽‍💻 
+:seedling:	 Estudando - Linux | Docker | Python | Vue.js | Nginx | Argis | Web App Builder | Dojo Toolkit & Ambiente Esri | Bootstrap
  
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
