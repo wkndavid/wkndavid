@@ -1,7 +1,10 @@
  ### David Jesus - Web Developer JR 👨🏽‍💻 
-:seedling:	 Estudando - Linux | Vue.js | Python | Docker | Nginx | Argis | Web App Builder | Dojo Toolkit & Ambiente Esri | Bootstrap
+:seedling:	 Estudando - Linux | C# | .NET | Blazor | Vue.js | Python | Docker | Nginx | Argis | Web App Builder | Dojo Toolkit & Ambiente Esri | Bootstrap
  
 <div style="display: inline_block"><br>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
