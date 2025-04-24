@@ -1,5 +1,5 @@
  ### David Jesus - Web Developer JR 👨🏽‍💻 
-:seedling:	 Estudando - Linux | C# | .NET | Blazor | Vue.js | Python | Docker | Ngin | Bootstrap
+:seedling:	 Estudando - Linux | C# | .NET | Blazor | Vue.js | Python | Docker | Nginx | Bootstrap
  
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/> 
